@@ -1,0 +1,1 @@
+This repository contains the analytical pipelines and Python scripts developed to evaluate the protein conservation of neutralizing B-cell epitopes against recommended vaccine strains. The analysis encompasses Influenza A (H1N1pdm09 and H3N2 subtypes) and Influenza B (Victoria lineage) viruses isolated strictly from human hosts (Homo sapiens).
